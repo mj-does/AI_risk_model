@@ -1,4 +1,4 @@
-## AI Agent Risk Platform : This project is a graph-powered AI risk analysis platform that models how user prompts propagate through AI agents, tools, and systems.
+## AI Agent Risk Platform : This project is a graph-powered AI risk analysis platform that models how user prompts propagate through AI agents, tools and systems.
 
 
 ## Architecture:
